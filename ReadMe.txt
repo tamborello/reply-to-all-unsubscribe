@@ -5,4 +5,4 @@ Tired of getting reply-to-all emails on a thread you never even asked for? Then 
 
 Future Work
 1. Add ability to shuffle not just one word at a time, but in groups of two, three, maybe four words at a time. This'll help to further pollute information space for search terms of multiple words and simply by making more of its contents into gobbledygook just by making the reply message longer.
-2. Add ability to reply multiple times per execution.
+2. Add ability to reshuffle the message each of the multiple times the script replies per execution.
